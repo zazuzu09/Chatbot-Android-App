@@ -20,7 +20,7 @@ This project was built as a basic example of how to integrate the Gemini API int
 
 1.  **Clone the Repository:**
     ```bash
-    git clone git@github.com:VThuong99/CustomizeChatbot.git
+    git clone git@github.com:zazuzu09/Chatbot-Android-App.git
     cd CustomizeChatbot
     ```
 
