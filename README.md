@@ -54,3 +54,4 @@ This project was built as a basic example of how to integrate the Gemini API int
 1.  **Select Device:** Choose a connected physical Android device (with USB/Wireless Debugging enabled) or an Emulator from the dropdown list in the toolbar.
 2.  **Press the Run button:** Click the "Run 'app'" icon (green triangle) or go to **Run > Run 'app'**.
 3.  Android Studio will build, install, and launch the application on your selected device.
+# Chatbot-Android-App
